@@ -54,6 +54,10 @@ The following algorithms were trained and evaluated:
 All models were evaluated using accuracy score and compared in a results table.
 # 📊 Model Comparison
 Models are sorted based on prediction accuracy to determine the best-performing algorithm for wine quality classification.
+![Random Forest](randomforest.png)
+![Confusion Matrix](confusionmatrix.png)
+![Feature Importance](feature_importance.png)
+
 # 🛠️ Technologies Used
 - Python
 - Pandas
